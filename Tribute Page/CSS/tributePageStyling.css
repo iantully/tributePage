@@ -1,0 +1,129 @@
+body {
+  margin-top: 50px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: rgb(235, 236, 222);
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+#bckgrndmap.jumbotron {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/7/7b/East-Boston-1838.PNG);
+  background-repeat: round space;
+}
+
+#title.jumbotron {
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-left  :10px;
+    padding-right :10px;
+    background: rgba(164, 166, 124, 0.5)
+
+}
+
+#prjcttitle {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+#tributeto {
+  font-size: 30px;
+  display: block;
+  padding-top: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#Eastie{
+  font-size: 100px;
+  text-align: center;
+  width: 400px; 
+  margin-left: 30%
+}
+
+#interstingfact {
+  display: block;
+  font-size: 15px;
+  text-align: right;
+  padding-right: 30px;
+}
+
+#JFK {
+  text-align: right;
+  font-size: 14px;
+  background-color: rgba(229, 220, 132, 0.94);
+	font-weight: bold;
+	padding: 5px;
+	border-radius: 20px; 
+}
+
+#history {
+  margin: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 150px;
+  background-color: rgb(235, 228, 197);
+  border: 1px solid black;
+}
+
+#historycontainer{
+  padding-right: 100%;
+  margin-left: -30px;
+}
+
+#startingpoint {
+  margin: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: rgb(235, 228, 197);
+  border: 1px solid black;
+  display: inline-block;
+}
+
+#startingpointcontainer {
+  padding-left: 75px;
+  text-align: right;
+}
+
+#library {
+  text-align: right;
+  font-size: 14px;
+  background-color: rgba(229, 220, 132, 0.94);
+	font-weight: bold;
+	padding: 5px;
+	border-radius: 20px; 
+}
+
+#Gentrifi{
+  margin: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 200px;
+  background-color: rgb(235, 228, 197);
+  border: 1px solid black;
+}
+
+#Gentrificontainer{
+  padding-right: 100%;
+  margin-left: -30px;
+}
+
+h4 {
+  text-align: left;
+}
+
+a {
+  color: black; 
+  text-decoration: underline
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited {
+  color: rgb(218, 176, 11);
+}
